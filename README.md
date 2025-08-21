@@ -108,7 +108,6 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushant-joshilkar04" alt="sushant-joshilkar04" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushant-joshilkar04&show_icons=true&locale=en&layout=compact" alt="sushant-joshilkar04" /></p>
 
